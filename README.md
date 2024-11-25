@@ -1,7 +1,9 @@
 # Tarea 2: Diagramas de clase en UML
 
 ## Descripcion del proyecto
-un resumen breve del propósito del proyecto.
+Repasar los fundamentos de diagramas de clase en UML y comandos básicos de Git al realizar 
+un diagrama de clases de java en draw.io y compartir los códigos de las clases junto con el 
+diagrama a un repositorio remoto en GitHub.
 
 ## Licencia
 MIT License
